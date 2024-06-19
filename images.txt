@@ -1,6 +1,1 @@
-nginx
-mysql
-openjdk
-redis
-rabbitmq
 influxdb
