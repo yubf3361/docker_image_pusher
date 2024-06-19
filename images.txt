@@ -1,9 +1,11 @@
-influxdb
-mysql
-nginx
-openjdk
-rabbitmq
-redis
+# 最新镜像
+influxdb:latest
+mysql:latest
+nginx:latest
+openjdk:latest
+rabbitmq:latest
+redis:latest
+# 指定版本镜像
 influxdb:1.8.10
 influxdb:2.7.6
 mysql:8.0.28
