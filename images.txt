@@ -1,1 +1,6 @@
+nginx
+mysql
+openjdk
 influxdb
+redis
+rabbitmq
