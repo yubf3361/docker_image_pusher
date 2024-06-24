@@ -8,6 +8,7 @@ redis:latest
 # 指定版本镜像
 influxdb:1.8.10
 influxdb:2.7.6
+mysql:8.0.12
 mysql:8.0.28
 nginx:1.26.1
 openjdk:17-jdk
