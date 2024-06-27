@@ -9,6 +9,7 @@ prom/node-exporter:latest
 prom/prometheus:latest
 grafana/grafana:latest
 google/cadvisor:latest
+gcr.io/cadvisor/cadvisor:latest
 # 指定版本镜像
 influxdb:1.8.10
 influxdb:2.7.6
@@ -21,3 +22,4 @@ openjdk:17-jdk-alpine
 openjdk:8
 openjdk:8-jre-slim
 redis:6.2.6
+gcr.io/cadvisor/cadvisor:v0.49.1
