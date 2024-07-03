@@ -8,7 +8,6 @@ redis:latest
 prom/node-exporter:latest
 prom/prometheus:latest
 grafana/grafana:latest
-google/cadvisor:latest
 gcr.io/cadvisor/cadvisor:latest
 # 指定版本镜像
 influxdb:1.8.10
