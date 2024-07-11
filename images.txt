@@ -9,6 +9,8 @@ prom/node-exporter:latest
 prom/prometheus:latest
 grafana/grafana:latest
 gcr.io/cadvisor/cadvisor:latest
+portainer/portainer-ce:latest
+portainer/agent:latest
 # 指定版本镜像
 influxdb:1.8.10
 influxdb:2.7.6
@@ -22,3 +24,5 @@ openjdk:8
 openjdk:8-jre-slim
 redis:6.2.6
 gcr.io/cadvisor/cadvisor:v0.49.1
+portainer/portainer-ce:2.19.4
+portainer/agent:2.19.4
