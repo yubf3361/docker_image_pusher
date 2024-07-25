@@ -3,7 +3,6 @@ influxdb:latest
 mysql:latest
 nginx:latest
 openjdk:latest
-rabbitmq:latest
 redis:latest
 prom/node-exporter:latest
 prom/prometheus:latest
@@ -25,6 +24,13 @@ thingsboard/tb-gateway:latest
 #openjdk:8
 #openjdk:8-jre-slim
 #redis:6.2.6
+prom/node-exporter:v1.8.2
+prom/prometheus:v2.53.1
+grafana/grafana:10.0.0
 #gcr.io/cadvisor/cadvisor:v0.49.1
 #portainer/portainer-ce:2.19.4
 #portainer/agent:2.19.4
+#docker pull thingsboard/tb-postgres:3.6.2
+#docker pull thingsboard/tb-gateway:3.4.4
+# 弃用
+#rabbitmq:latest
