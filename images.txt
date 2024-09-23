@@ -14,6 +14,7 @@ thingsboard/tb-postgres:latest
 thingsboard/tb-gateway:latest
 prom/mysqld-exporter:latest
 # 指定版本镜像
+eclipse-temurin:17-jre-alpine
 #influxdb:1.8.10
 #influxdb:2.7.6
 #mysql:8.0.12
