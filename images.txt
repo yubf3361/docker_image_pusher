@@ -24,20 +24,20 @@ mcr.microsoft.com/windows/servercore:ltsc2022
 #thingsboard/tb-postgres:3.8.0
 
 #最新镜像
-gcr.io/cadvisor/cadvisor:latest
-grafana/grafana:latest
-influxdb:latest
-mysql:latest
-nginx:latest
-openjdk:latest
-portainer/agent:latest
-portainer/portainer-ce:latest
-prom/mysqld-exporter:latest
-prom/node-exporter:latest
-prom/prometheus:latest
-redis:latest
-thingsboard/tb-gateway:latest
-thingsboard/tb-postgres:latest
+#gcr.io/cadvisor/cadvisor:latest
+#grafana/grafana:latest
+#influxdb:latest
+#mysql:latest
+#nginx:latest
+#openjdk:latest
+#portainer/agent:latest
+#portainer/portainer-ce:latest
+#prom/mysqld-exporter:latest
+#prom/node-exporter:latest
+#prom/prometheus:latest
+#redis:latest
+#thingsboard/tb-gateway:latest
+#thingsboard/tb-postgres:latest
 
 #弃用
 rabbitmq:latest
