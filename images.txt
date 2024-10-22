@@ -4,8 +4,6 @@
 #grafana/grafana:10.0.0
 #influxdb:1.8.10
 #influxdb:2.7.6
-mcr.microsoft.com/windows/servercore:ltsc2019
-mcr.microsoft.com/windows/servercore:ltsc2022
 #mysql:8.0.12
 #mysql:8.0.28
 #mysql:8.0.37
@@ -22,7 +20,7 @@ mcr.microsoft.com/windows/servercore:ltsc2022
 #thingsboard/openjdk17:bookworm-slim
 #thingsboard/tb-gateway:3.4.4
 #thingsboard/tb-postgres:3.8.0
-
+dockurr/windows:4.00
 #最新镜像
 #gcr.io/cadvisor/cadvisor:latest
 #grafana/grafana:latest
@@ -38,6 +36,9 @@ mcr.microsoft.com/windows/servercore:ltsc2022
 #redis:latest
 #thingsboard/tb-gateway:latest
 #thingsboard/tb-postgres:latest
+dockurr/windows
 
 #弃用
-rabbitmq:latest
+#rabbitmq:latest
+#mcr.microsoft.com/windows/servercore:ltsc2019
+#mcr.microsoft.com/windows/servercore:ltsc2022
