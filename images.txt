@@ -14,13 +14,16 @@
 #openjdk:8-jre-slim
 #portainer/agent:2.19.4
 #portainer/portainer-ce:2.19.4
+portainer/agent:2.21.4
+portainer/portainer-ce:2.21.4
 #prom/node-exporter:v1.8.2
 #prom/prometheus:v2.53.1
 #redis:6.2.6
 #thingsboard/openjdk17:bookworm-slim
 #thingsboard/tb-gateway:3.4.4
 #thingsboard/tb-postgres:3.8.0
-dockurr/windows:4.00
+#dockurr/windows:4.00
+
 #最新镜像
 #gcr.io/cadvisor/cadvisor:latest
 #grafana/grafana:latest
@@ -36,7 +39,7 @@ dockurr/windows:4.00
 #redis:latest
 #thingsboard/tb-gateway:latest
 #thingsboard/tb-postgres:latest
-dockurr/windows
+#dockurr/windows
 
 #弃用
 #rabbitmq:latest
