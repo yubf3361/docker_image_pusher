@@ -23,6 +23,8 @@ portainer/portainer-ce:2.21.4
 #thingsboard/tb-gateway:3.4.4
 #thingsboard/tb-postgres:3.8.0
 #dockurr/windows:4.00
+nextcloud:stable-fpm
+nextcloud:30.0.5-fpm
 
 #最新镜像
 #gcr.io/cadvisor/cadvisor:latest
