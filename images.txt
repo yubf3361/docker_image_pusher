@@ -42,6 +42,7 @@ nextcloud:30.0.5-fpm
 #thingsboard/tb-gateway:latest
 #thingsboard/tb-postgres:latest
 #dockurr/windows
+nextcloud
 
 #弃用
 #rabbitmq:latest
