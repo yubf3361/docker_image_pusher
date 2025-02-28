@@ -14,8 +14,10 @@
 #openjdk:8-jre-slim
 #portainer/agent:2.19.4
 #portainer/portainer-ce:2.19.4
-portainer/agent:2.21.4
-portainer/portainer-ce:2.21.4
+#portainer/agent:2.21.4
+#portainer/portainer-ce:2.21.4
+portainer/agent:2.27.1
+portainer/portainer-ce:2.27.1
 #prom/node-exporter:v1.8.2
 #prom/prometheus:v2.53.1
 #redis:6.2.6
@@ -23,8 +25,8 @@ portainer/portainer-ce:2.21.4
 #thingsboard/tb-gateway:3.4.4
 #thingsboard/tb-postgres:3.8.0
 #dockurr/windows:4.00
-nextcloud:stable-fpm
-nextcloud:30.0.5-fpm
+#nextcloud:stable-fpm
+#nextcloud:30.0.5-fpm
 
 #最新镜像
 #gcr.io/cadvisor/cadvisor:latest
@@ -41,8 +43,8 @@ nextcloud:30.0.5-fpm
 #redis:latest
 #thingsboard/tb-gateway:latest
 #thingsboard/tb-postgres:latest
-#dockurr/windows
-nextcloud
+#dockurr/windows:latest
+#nextcloud:latest
 
 #弃用
 #rabbitmq:latest
